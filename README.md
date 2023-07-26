@@ -35,11 +35,15 @@ Download, and open index.html with your browser.
 <br>
 <br>
 <br>
+
 ![2](https://github.com/AKMofficial/Khawater/assets/103380935/bc346051-f13f-402e-a6be-07677ff85b7d)
+
 <br>
 <br>
 <br>
+
 ![3](https://github.com/AKMofficial/Khawater/assets/103380935/b080a68d-e9ad-46c9-ac07-db3da2224840)
+
 <br>
 <br>
 
