@@ -17,7 +17,7 @@ The platform is to write the daily events as a diary with the ability to share t
 
 # How to Open
 - ### Online
-[Click Here](linnnkkkkkkkkkkkkkkkkkkk)
+[Click Here](https://akmofficial.github.io/Khawater/)
 <br>
 <br>
 - ### Locally
