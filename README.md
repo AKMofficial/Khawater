@@ -47,8 +47,8 @@ Download, and open index.html with your browser.
 <br>
 
 # Collaborators
-- Abdulkarim Jan
-- Nawaf Abdulaziz
-- Asma Albuainain
-- Fatima Ibrahim
-- Wahiba S
+- [Abdulkarim Jan](https://github.com/AKMofficial)
+- [Nawaf Abdulaziz](https://github.com/NawafAbdulaziz)
+- [Asma Albuainain](https://github.com/AsmaMubarakk)
+- [Fatima Ibrahim](https://github.com/Faitmhib)
+- [Wahiba Soliman](https://github.com/WahibaSoliman)
