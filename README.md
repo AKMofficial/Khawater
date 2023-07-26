@@ -28,21 +28,18 @@ Download, and open index.html with your browser.
 
 
 # Preview Images
-![1](https://github.com/AKMofficial/Khawater/assets/103380935/af3c8a4d-b519-4457-92c5-c4ea98e56313)
+![1](https://github.com/AKMofficial/Khawater/assets/103380935/753f734b-33d0-45e8-aefd-0266ae28baea)
 
-
-<br>
-<br>
-<br>
-
-![2](https://github.com/AKMofficial/Khawater/assets/103380935/89050f97-9010-4589-9574-4289e9eef046)
 
 
 <br>
 <br>
 <br>
-
-![3](https://github.com/AKMofficial/Khawater/assets/103380935/370fd1fe-085c-49c9-8f96-aa5885127da7)
+![2](https://github.com/AKMofficial/Khawater/assets/103380935/bc346051-f13f-402e-a6be-07677ff85b7d)
+<br>
+<br>
+<br>
+![3](https://github.com/AKMofficial/Khawater/assets/103380935/b080a68d-e9ad-46c9-ac07-db3da2224840)
 <br>
 <br>
 
